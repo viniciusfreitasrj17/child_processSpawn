@@ -1,9 +1,8 @@
 {
   "name": "child_processSpawn",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node proccess.js"
   },
   "author": "Vinicius",
   "license": "MIT",
